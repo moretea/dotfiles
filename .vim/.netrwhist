@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/maarten/nbb/nis/app/views/photographer/uploads'
+let g:netrw_dirhist_2='/home/maarten/nbb/nis/spec/controllers'
+let g:netrw_dirhist_3='/home/maarten/nbb/nis/spec/controllers/services'
+let g:netrw_dirhist_4='/home/maarten/nbb/nis'
